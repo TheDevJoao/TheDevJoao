@@ -15,15 +15,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   <br>
-  <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div> 
   <a href="https://www.linkedin.com/in/thejoao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href"https://wa.link/iib3x3" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
   
 ##
   
 - 🔭 I’m currently working using C# and ASP.NET for front-end and back-end projects
-- 🌱 I’m currently learning Flutter 
+- 🌱 Learning Flutter for a private project
 - 📫 How to reach me: jpprogrammer@outlook.com
 - ⚡ Fun fact: Kentaro Miura knew that he would never finish Berserk.
