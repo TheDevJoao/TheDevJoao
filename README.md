@@ -21,7 +21,7 @@
   
 ##
   
-- 🔭 I’m currently working using C# and ASP.NET for front-end and back-end projects
+- 🔭 I’m currently working using Ruby + On Rails and Reactjs for front-end and back-end projects
 - 🌱 Learning Flutter for a private project
 - 📫 How to reach me: thedevjoao@gmail.com
 - ⚡ Fun fact: Kentaro Miura knew that he would never finish Berserk.
