@@ -1,13 +1,6 @@
 ## Hello there! ⭐🧔⚔️
 ### My name is João Pedro and I code to have fun and pay the bills! It's a win-win situation! 🤖
 
-<a href="[https://github.com/thedevjoao/github-readme-stats](https://github.com/TheDevJoao/TheDevJoao#readme)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevjoao&show_icons=true&theme=tokyonight" />
-</a>
-<a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjoao&layout=compact)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevjoao&layout=compact&show_icons=true&theme=tokyonight" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
