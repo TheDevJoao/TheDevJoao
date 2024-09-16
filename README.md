@@ -16,8 +16,7 @@
 </div>
   
 ##
-  
-- 🔭 I’m currently working using Ruby + On Rails and Reactjs for front-end and back-end projects
-- 🌱 Learning Flutter for a private project
+
+- Fullstack web developer, working with Rails, React.js and more
 - 📫 How to reach me: thedevjoao@gmail.com
 - ⚡ Fun fact: Kentaro Miura knew that he would never finish Berserk.
